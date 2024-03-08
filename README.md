@@ -30,7 +30,9 @@ Checked the structure of each table using the DESCRIBE command.
 2-Testing Suite
 
 Testing Strategy:
+
 The testing suite includes unit tests, integration tests, and security penetration tests to ensure the functionality and security of the microservices.
+
 Challenges Faced:
 Challenges during testing were addressed by refining test cases and ensuring proper handling of edge cases.
 
