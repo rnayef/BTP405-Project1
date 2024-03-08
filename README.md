@@ -107,7 +107,7 @@ Sprints were planned based on prioritized user stories to deliver incremental va
 So basically, after writing all the user stories , we can click on start sprint to be able then to manage the work that should be done in a specific period of time.
 
 5. Challenges Faced
-6. 
+   
 Challenge 1: Integration Complexity
 
 Integrating microservices posed challenges in terms of communication and data consistency.
@@ -130,15 +130,13 @@ Ensuring security is an ongoing process that requires continuous attention.
     
 .1 Enhancements
 
-Proposed Enhancements:
-
 Enhancements may include additional features, improved user interfaces, and further optimization of microservices.
 
 .2 Scalability and Performance
 
-Scalability and Performance:
-
 Future work will explore strategies for enhancing scalability and performance as the user base grows.
+
+
 
 In brief, the PHR System in the secure cloud marked significant achievements with the effective establishment of microservices, a strong testing approach, and a user-friendly design. Overcoming challenges in integrating complex components and implementing stringent security measures offered insights into the importance of modularity and ongoing security commitment. Moving forward, the project paves the way for upgrades, enhanced user interfaces, and heightened scalability. The secure cloud-based PHR System is set to transform into an adaptable and safe health management platform.
 
