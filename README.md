@@ -4,7 +4,8 @@ Project Report: Secure Cloud-Based Personal Health Record (PHR) System
    
 The Secure Cloud-Based Personal Health Record (PHR) System is designed to provide users with a centralized platform for securely managing their health information. The system involve agile methodologies, microservices architecture, and emphasizes security and privacy.
 
-To summarize, here are the key steps I've taken:
+To summarize,
+here are the key steps I've taken:
 Docker Setup:
 Created a docker-compose.yml file to define  MySQL service.
 Used docker-compose up to start the MySQL container.
