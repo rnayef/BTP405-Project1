@@ -1,4 +1,4 @@
-Project Report: Secure Cloud-Based Personal Health Record (PHR) System
+Project Documentation and Report: Secure Cloud-Based Personal Health Record (PHR) System
 
 1. Introduction
    
@@ -26,4 +26,11 @@ Addressed issues with missing columns in other tables (healthcare_providers, med
 Verification:
 
 Checked the structure of each table using the DESCRIBE command.
+
+2-Testing Suite
+Testing Strategy:
+The testing suite includes unit tests, integration tests, and security penetration tests to ensure the functionality and security of the microservices.
+Challenges Faced:
+Challenges during testing were addressed by refining test cases and ensuring proper handling of edge cases.
+
 
